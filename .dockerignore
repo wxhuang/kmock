@@ -1,0 +1,10 @@
+.git
+.idea
+.dockerignore
+.gitignore
+.env
+node_modules
+package-lock.json
+Dockerfile
+docker-compose.yml
+route.js
